@@ -3,6 +3,7 @@ import urllib2
 from bs4 import BeautifulSoup
 
 
+# 糗事百科
 class Comedy(object):
     def __init__(self, name, number, content):
         self.name = name

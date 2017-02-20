@@ -18,8 +18,8 @@
       <file leaf-file-name="qsbk.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/qsbk.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="34" column="38" lean-forward="true" selection-start-line="34" selection-start-column="38" selection-end-line="34" selection-end-column="38" />
+            <state relative-caret-position="60">
+              <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
               <folding>
                 <element signature="e#23#37#0" expanded="true" />
               </folding>
@@ -41,6 +41,7 @@
       <list>
         <option value="$PROJECT_DIR$/demo.py" />
         <option value="$PROJECT_DIR$/main.py" />
+        <option value="$PROJECT_DIR$/qsbk.py" />
       </list>
     </option>
   </component>
@@ -318,7 +319,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/qsbk.py</url>
-          <line>58</line>
+          <line>59</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
@@ -369,8 +370,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/qsbk.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="34" column="38" lean-forward="true" selection-start-line="34" selection-start-column="38" selection-end-line="34" selection-end-column="38" />
+        <state relative-caret-position="60">
+          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
           <folding>
             <element signature="e#23#37#0" expanded="true" />
           </folding>
